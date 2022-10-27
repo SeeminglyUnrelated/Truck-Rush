@@ -1,0 +1,62 @@
+
+*.dll
+Output/Truck Rush/unicodedata.pyd
+Output/Truck Rush/Truck Rush.exe
+Output/Truck Rush/select.pyd
+Output/Truck Rush/pygame/transform.cp310-win_amd64.pyd
+Output/Truck Rush/pygame/time.cp310-win_amd64.pyd
+Output/Truck Rush/pygame/surflock.cp310-win_amd64.pyd
+Output/Truck Rush/pygame/surface.cp310-win_amd64.pyd
+Output/Truck Rush/pygame/scrap.cp310-win_amd64.pyd
+Output/Truck Rush/pygame/rwobject.cp310-win_amd64.pyd
+Output/Truck Rush/pygame/rect.cp310-win_amd64.pyd
+Output/Truck Rush/pygame/pygame_icon.bmp
+Output/Truck Rush/pygame/pixelcopy.cp310-win_amd64.pyd
+Output/Truck Rush/pygame/pixelarray.cp310-win_amd64.pyd
+Output/Truck Rush/pygame/mouse.cp310-win_amd64.pyd
+Output/Truck Rush/pygame/mixer_music.cp310-win_amd64.pyd
+Output/Truck Rush/pygame/mixer.cp310-win_amd64.pyd
+Output/Truck Rush/pygame/math.cp310-win_amd64.pyd
+Output/Truck Rush/pygame/mask.cp310-win_amd64.pyd
+Output/Truck Rush/pygame/key.cp310-win_amd64.pyd
+Output/Truck Rush/pygame/joystick.cp310-win_amd64.pyd
+Output/Truck Rush/pygame/imageext.cp310-win_amd64.pyd
+Output/Truck Rush/pygame/image.cp310-win_amd64.pyd
+Output/Truck Rush/pygame/freesansbold.ttf
+Output/Truck Rush/pygame/font.cp310-win_amd64.pyd
+Output/Truck Rush/pygame/event.cp310-win_amd64.pyd
+Output/Truck Rush/pygame/draw.cp310-win_amd64.pyd
+Output/Truck Rush/pygame/display.cp310-win_amd64.pyd
+Output/Truck Rush/pygame/constants.cp310-win_amd64.pyd
+Output/Truck Rush/pygame/color.cp310-win_amd64.pyd
+Output/Truck Rush/pygame/bufferproxy.cp310-win_amd64.pyd
+Output/Truck Rush/pygame/base.cp310-win_amd64.pyd
+Output/Truck Rush/pygame/_freetype.cp310-win_amd64.pyd
+Output/Truck Rush/pyexpat.pyd
+Output/Truck Rush/Music/Main Menu.wav
+Output/Truck Rush/Music/Main Menu.json
+Output/Truck Rush/Music/crash_sound.wav
+Output/Truck Rush/Music/Crash Music.wav
+Output/Truck Rush/Music/Crash Music.json
+Output/Truck Rush/Images/truck.png
+Output/Truck Rush/Images/Og/truck2.xcf
+Output/Truck Rush/Images/Og/truck.xcf
+Output/Truck Rush/Images/Og/enemy_2.xcf
+Output/Truck Rush/Images/Og/enemy_1.xcf
+Output/Truck Rush/Images/Og/bg.xcf
+Output/Truck Rush/Images/enemy_2.png
+Output/Truck Rush/Images/enemy_1.png
+Output/Truck Rush/Images/car2.png
+Output/Truck Rush/Images/car1.png
+Output/Truck Rush/Images/bg.png
+Output/Truck Rush/fonts/ARCADECLASSIC.TTF
+Output/Truck Rush/base_library.zip
+Output/Truck Rush/_ssl.pyd
+Output/Truck Rush/_socket.pyd
+Output/Truck Rush/_queue.pyd
+Output/Truck Rush/_lzma.pyd
+Output/Truck Rush/_hashlib.pyd
+Output/Truck Rush/_decimal.pyd
+Output/Truck Rush/_ctypes.pyd
+Output/Truck Rush/_bz2.pyd
+Output/Truck Rush Setup - 1.0.exe
